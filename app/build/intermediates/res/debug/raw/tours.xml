@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tours>
+  <tour>
+    <tourId>1</tourId>
+    <tourTitle>5 dias en playas de México</tourTitle>
+    <packageTitle>Visitando México</packageTitle>
+    <description>Todo incluido paquete premium.</description>
+    <price>350</price>
+  </tour>
+  <tour>
+    <tourId>2</tourId>
+    <tourTitle>Un fin de semana en las grutas de Cacahuamilpa</tourTitle>
+    <packageTitle>Aguas termales</packageTitle>
+    <description>Incluye entrada al parque, renta de cabaña por todo el fin de semana. No incluye alimentos</description>
+    <price>850</price>
+  </tour>
+</tours>
